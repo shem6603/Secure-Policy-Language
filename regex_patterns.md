@@ -1,5 +1,13 @@
 # Secure Policy Language (SPL) - Regular Expression Patterns
 
+**Team Members:**
+- Javido Robinson - 1707486
+- Athaliah Knight - 1804360
+- Nathalea Evans - 2101707
+- Shemmar Ricketts - 2005329
+
+**University of Technology, Jamaica - CIT4004**
+
 This document provides a complete reference of all regular expressions used in the SPL lexer to recognize tokens.
 
 ## Token Recognition Order

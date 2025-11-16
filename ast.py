@@ -3,6 +3,12 @@ Secure Policy Language (SPL) - Abstract Syntax Tree (AST) Node Classes
 University of Technology, Jamaica - CIT4004
 Analysis of Programming Languages Project
 
+Team Members:
+- Javido Robinson - 1707486
+- Athaliah Knight - 1804360
+- Nathalea Evans - 2101707
+- Shemmar Ricketts - 2005329
+
 This module defines all AST node classes that represent the structure
 of parsed SPL programs. Each grammar rule maps to a corresponding node class.
 """

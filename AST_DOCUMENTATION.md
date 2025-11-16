@@ -1,5 +1,13 @@
 # Secure Policy Language (SPL) - AST Node Classes Documentation
 
+**Team Members:**
+- Javido Robinson - 1707486
+- Athaliah Knight - 1804360
+- Nathalea Evans - 2101707
+- Shemmar Ricketts - 2005329
+
+**University of Technology, Jamaica - CIT4004**
+
 This document describes all AST (Abstract Syntax Tree) node classes defined in `ast.py`.
 
 ## Overview

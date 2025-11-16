@@ -3,6 +3,12 @@ Secure Policy Language (SPL) - Lexer
 University of Technology, Jamaica - CIT4004
 Analysis of Programming Languages Project
 
+Team Members:
+- Javido Robinson - 1707486
+- Athaliah Knight - 1804360
+- Nathalea Evans - 2101707
+- Shemmar Ricketts - 2005329
+
 This module implements the lexical analyzer (tokenizer) for SPL.
 It recognizes all tokens including keywords, operators, literals, and punctuation.
 """

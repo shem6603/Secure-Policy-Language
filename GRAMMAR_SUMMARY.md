@@ -1,5 +1,13 @@
 # SPL Grammar, Tokens, and Regex - Summary
 
+**Team Members:**
+- Javido Robinson - 1707486
+- Athaliah Knight - 1804360
+- Nathalea Evans - 2101707
+- Shemmar Ricketts - 2005329
+
+**University of Technology, Jamaica - CIT4004**
+
 This document provides a quick reference for the completed grammar design, token definitions, and regex patterns for the Secure Policy Language (SPL).
 
 ## Files Created
